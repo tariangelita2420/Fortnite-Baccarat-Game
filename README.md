@@ -1,0 +1,1 @@
+This project is a full-stack application developed using Java. It combines the excitement of Baccarat with the vibrant and dynamic theme of Fortnite. Whether you’re a fan of card games or a Fortnite enthusiast, this game offers a unique and engaging experience
